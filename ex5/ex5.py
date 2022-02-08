@@ -9,7 +9,8 @@ my_eyes = "Black"
 my_teeth = "white"
 my_hair = "Black"
 ab1 = 'Zaid Ali'
-ab_age = 6 years old
+ab_age = 6 # not a lie
+
 
 
 print(f"let's talk about {my_name}")
@@ -18,7 +19,7 @@ print(f"he's{my_weight} very heavy.")
 print(f"he's {my_eyes} eyes and {my_hair} hair.")
 print("Actually i am not too heavy.")
 print(f"his teeth are usually {my_teeth} depending on coffee.")
-print(f"let talk about {ab}")
+print(f"let talk about {ab1}")
 print(f"he's {ab_age} years old.")
 
 total = my_age + my_weight + my_height
